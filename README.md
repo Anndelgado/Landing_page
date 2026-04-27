@@ -14,7 +14,7 @@ The website show you featured chefs, and event schedules, with the main goal of 
 ## Project Structure
 
 
- * gastro.html  --> Main HTML structure
+ * index.html   --> Main HTML structure
  * style.css    --> Styles and layout
  * script.js    --> Interactive features (menu)
  * /images      --> Images and media (gallery, logo, video)
